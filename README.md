@@ -47,9 +47,7 @@ Berikut adalah hasil performa model pada data pengujian (Test Set):
 | **Recall** | 70.00% | 77% | 64% | 78% |
 | **F1-Score** | 71.00% | 79% | 70% | 75% |
 
-## Cara Menjalankan Project
+## Testing Model 
+<img width="660" height="301" alt="image" src="https://github.com/user-attachments/assets/c00487d8-583e-4f1b-bd34-3691ed3d51da" />
+Berdasarkan data diatas, pasien dinyatakan tidak terkena diabetes
 
-### 1. Clone Repository
-```bash
-git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/JohannesMRS/Prediksi-Resiko-Diabetes.git)
-cd Prediksi-Resiko-Diabetes

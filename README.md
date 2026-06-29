@@ -21,18 +21,23 @@ Fitur-fitur utama yang digunakan untuk prediksi meliputi:
 - *[Sebutkan fitur penting lainnya...]*
 
 ## 🤖 Pemodelan & Performa
-Setelah melalui tahap Eksplorasi Data (EDA) dan Preprocessing, model dilatih menggunakan algoritma **[Sebutkan Algoritma, misal: Random Forest Classifier]**.
+Setelah melalui tahap Eksplorasi Data (EDA) dan Preprocessing, model dilatih menggunakan algoritma:
+**- Decision Tree**
+**- Random Forest**
+**- KNN (K-Nearest Neighbors)**
+**- SVM (Support Vector Machine)**
 
 Berikut adalah hasil performa model pada data pengujian (Test Set):
 
+### Decision Tree
 | Metrik | Skor |
 | --- | --- |
-| Accuracy | 85.5% |
-| Precision | 83.2% |
-| Recall | 81.0% |
-| F1-Score | 82.1% |
+| Accuracy | 71.33% |
+| Precision | 71% |
+| Recall | 70% |
+| F1-Score | 71% |
 
-## 🛠️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### 1. Clone Repository
 ```bash

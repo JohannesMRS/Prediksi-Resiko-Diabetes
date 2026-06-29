@@ -5,9 +5,18 @@
 
 Repository ini berisi project Machine Learning yang bertujuan untuk memprediksi risiko penyakit diabetes pada pasien berdasarkan beberapa indikator medis/kesehatan. Project ini dibuat untuk membantu deteksi dini risiko diabetes menggunakan pendekatan berbasis data.
 
+## Dataset
+[Resiko Diabetes](https://www.kaggle.com/code/nurkharisaumami/klasifikasi-penyakit-diabetes/data)
+
 ## Fitur
 - Prediksi klasifikasi (Diabetes / Non-Diabetes).
 - Preprocessing data otomatis (handling missing values & scaling).
+
+## Library
+- **Pandas**
+- **NumPy**
+- **Seaborn**
+- **Matplotlib**
 
 ## Dataset
 Dataset yang digunakan dalam project ini adalah **[Nama Dataset, misal: Pima Indians Diabetes Dataset]** yang diperoleh dari [Kaggle/Sumber lain].
@@ -42,5 +51,5 @@ Berikut adalah hasil performa model pada data pengujian (Test Set):
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
-cd nama-repo
+git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/JohannesMRS/Prediksi-Resiko-Diabetes.git)
+cd Prediksi-Resiko-Diabetes

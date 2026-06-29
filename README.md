@@ -1,4 +1,4 @@
-# 🩺 Diabetes Risk Prediction Project
+# Diabetes Risk Prediction Project
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![ML Framework](https://img.shields.io/badge/Framework-Scikit--Learn-orange)](https://scikit-learn.org/)

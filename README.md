@@ -49,5 +49,6 @@ Berikut adalah hasil performa model pada data pengujian (Test Set):
 
 ## Testing Model 
 <img width="660" height="301" alt="image" src="https://github.com/user-attachments/assets/c00487d8-583e-4f1b-bd34-3691ed3d51da" />
-- Berdasarkan data diatas, pasien dinyatakan tidak terkena diabetes
+<br>
+Berdasarkan data diatas, pasien dinyatakan tidak terkena diabetes
 
